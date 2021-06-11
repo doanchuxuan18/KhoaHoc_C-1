@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\13.DaoTaoLapTrinh-SPEC\\C#\\T5-21\\KhoaHoc_C\\Buoi2_C\\Buoi2_C.csproj": {}
+    "C:\\Users\\dell\\Documents\\GitHub\\KhoaHoc_C\\Buoi2_C\\Buoi2_C.csproj": {}
   },
   "projects": {
-    "D:\\13.DaoTaoLapTrinh-SPEC\\C#\\T5-21\\KhoaHoc_C\\Buoi2_C\\Buoi2_C.csproj": {
+    "C:\\Users\\dell\\Documents\\GitHub\\KhoaHoc_C\\Buoi2_C\\Buoi2_C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\13.DaoTaoLapTrinh-SPEC\\C#\\T5-21\\KhoaHoc_C\\Buoi2_C\\Buoi2_C.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Documents\\GitHub\\KhoaHoc_C\\Buoi2_C\\Buoi2_C.csproj",
         "projectName": "Buoi2_C",
-        "projectPath": "D:\\13.DaoTaoLapTrinh-SPEC\\C#\\T5-21\\KhoaHoc_C\\Buoi2_C\\Buoi2_C.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\13.DaoTaoLapTrinh-SPEC\\C#\\T5-21\\KhoaHoc_C\\Buoi2_C\\obj\\",
+        "projectPath": "C:\\Users\\dell\\Documents\\GitHub\\KhoaHoc_C\\Buoi2_C\\Buoi2_C.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\Documents\\GitHub\\KhoaHoc_C\\Buoi2_C\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
